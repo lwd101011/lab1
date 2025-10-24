@@ -11,14 +11,13 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>计算器-刘炜东-2023414300213</string>
   </property>
   <property name="styleSheet">
    <string notr="true">QPushButton{
 background-color:rgb(125, 255, 155);
 font-size:20pt;
 color:rgb(77, 77, 77);
- box-shadow: 0 2px 3px rgba(0, 0, 0.1, 0.3);
 }
 QPushButton:hover{
 background-color:rgb(85, 255, 0);
@@ -35,7 +34,6 @@ font-size:30pt;
     border-radius: 12px;
     border: 1px solid rgb(220, 220, 220);
     margin: 10px;
-    box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.05); 
 }</string>
   </property>
   <widget class="QWidget" name="centralwidget">
